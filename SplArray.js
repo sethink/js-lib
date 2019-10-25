@@ -77,19 +77,33 @@
             }));
         },
         //数组去重（高性能）。跟并集功能类似
-        array_unique:function (array) {
+        array_unique: function (array) {
             //利用对象属性不会重复特性
             var result = [];
             var obj = {};
-            for (var i in array){
-                if(!obj[array[i]]){
+            for (var i in array) {
+                if (!obj[array[i]]) {
                     result.push(array[i]);
-                    obj[array[i]]=1;
+                    obj[array[i]] = 1;
                 }
             }
             return result;
+        },
+        //数组转字符串
+        implode: function (glue, array) {
+            glue = glue || '';
+            return array.join(glue);
+        },
+        explode: function (delimiter, string) {
+            delimiter = delimiter || '';
+            return string.split(delimiter);
+        },
+        //去空值
+        filter_empty: function (array) {
+            return array.filter(function (val) {
+                return !(!val || val === "");
+            });
         }
-
 
     };
     return SplArray;
