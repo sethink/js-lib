@@ -3,7 +3,13 @@
 #### 介绍
 js常用库。兼容NodeJS和JavaScript
 
-# 使用
+# 手册跳转
+## [SplArray](/SplArray.md)
+## [SplString](/SplString.md)
+## [tap](/tap.md)
+
+
+# 使用（Spl开头库）
 
 >## NodeJS中使用
 >```javascript
@@ -25,7 +31,10 @@ js常用库。兼容NodeJS和JavaScript
 >var ip = SplString.hex2ip('C0A80A16');
 >```
 
+# 使用（函数库）
+>## tap
+>```text
+>模拟tap事件，代替onclick
+>```
 
-# 手册跳转
-## [SplArray](/SplArray.md)
-## [SplString](/SplString.md)
+
