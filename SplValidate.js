@@ -64,6 +64,10 @@
         //身份证
         IDCard:function (string) {
             return /(^\d{15}$)|(^\d{18}$)|(^\d{17}(\d|X|x)$)/.test(string);
+        },
+        //从字符串中提取ip地址（带端口号）
+        getIPFromString:function (string) {
+            return /\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}[:\d{1,5}]*/.exec(string);
         }
 
 
