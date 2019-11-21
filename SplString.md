@@ -43,3 +43,19 @@
 >var rs = SplString.bytes2hexString(bytes);
 >//打印：AA55
 >```
+
+>## lang_s2t(string)
+>### detail:
+>简转繁
+>### example:
+>```javascript
+>document.body.innerHTML = SplString.lang_s2t(document.body.innerHTML);
+>```
+
+>## lang_t2s(string)
+>### detail:
+>繁转简
+>### example:
+>```javascript
+>document.body.innerHTML = SplString.lang_t2s(document.body.innerHTML);
+>```

@@ -5,12 +5,15 @@
     <title>Title</title>
 </head>
 <body>
-<button ontouchstart="tap(this,tap_func)" style="width: 150px;height: 150px;">测试tap</button>
+<button onclick="tt()" style="width: 150px;height: 150px;">测试tap</button>
+測試tap
 </body>
-<script type="text/javascript" src="tap.js"></script>
+<script type="text/javascript" src="SplString.js"></script>
 <script>
-    function tap_func(obj) {
-        console.log('tap')
+    document.body.innerHTML = SplString.lang_s2t(document.body.innerHTML);
+
+    function tt() {
+        document.body.innerHTML = SplString.lang_t2s(document.body.innerHTML);
     }
 </script>
 </html>
