@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d38f6fe-974f-4f6c-b5a6-0bff8da13a85" name="默认" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Demo.html" afterPath="$PROJECT_DIR$/Demo.html" />
       <change beforePath="$PROJECT_DIR$/SplString.js" afterPath="$PROJECT_DIR$/SplString.js" />
       <change beforePath="$PROJECT_DIR$/SplString.md" afterPath="$PROJECT_DIR$/SplString.md" />
     </list>
@@ -15,13 +14,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
+    <splitter split-orientation="vertical" split-proportion="0.36343852">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="SplString.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/SplString.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="649">
+                <state relative-caret-position="1452">
                   <caret line="66" column="8" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
                   <folding />
                 </state>
@@ -32,7 +31,7 @@
             <entry file="file://$PROJECT_DIR$/Demo.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="154">
-                  <caret line="7" column="72" lean-forward="true" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+                  <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
                   <folding />
                 </state>
               </provider>
@@ -42,8 +41,8 @@
             <entry file="file://$PROJECT_DIR$/SplString.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="231">
-                    <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+                  <first_editor relative-caret-position="146">
+                    <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -54,12 +53,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="SplString.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/SplString.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-130">
-                  <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+                <state relative-caret-position="396">
+                  <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -106,10 +105,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="851" />
-    <option name="y" value="245" />
-    <option name="width" value="1275" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="430" />
+    <option name="y" value="24" />
+    <option name="width" value="1229" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -130,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -143,6 +141,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,7 +186,9 @@
       <workItem from="1569294919619" duration="812000" />
       <workItem from="1572655301451" duration="3148000" />
       <workItem from="1574066549328" duration="180000" />
-      <workItem from="1574297460255" duration="1271000" />
+      <workItem from="1574297460255" duration="1379000" />
+      <workItem from="1574301836354" duration="665000" />
+      <workItem from="1574740715868" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1569295006155</created>
@@ -207,13 +208,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5411000" />
+    <option name="totallyTimeSpent" value="6483000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="430" y="24" width="1229" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19083156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21043627" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -248,31 +249,78 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplString.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="748">
+            <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="22" lean-forward="false" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <folding>
+              <marker date="1572658072806" expanded="true" signature="329:380" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="72" lean-forward="true" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplString.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="748">
+            <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="66" column="8" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tap.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1572658322148" expanded="true" signature="565:573" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:597" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:623" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:632" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:640" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:734" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:743" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:798" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:808" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:838" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:866" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:873" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:884" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:893" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="573:597" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="640:734" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="692:719" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="808:838" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -283,26 +331,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1572658322148" expanded="true" signature="565:573" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:597" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:623" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:632" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:640" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:734" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:743" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:798" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:808" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:838" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:866" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:873" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:884" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:893" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="573:597" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="640:734" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="692:719" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="808:838" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -342,20 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-            <folding>
-              <marker date="1572658072806" expanded="true" signature="329:380" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -371,26 +385,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="506">
             <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-            <folding>
-              <marker date="1572658322148" expanded="true" signature="565:573" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:597" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:623" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:632" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:640" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:734" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:743" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:798" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:808" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:838" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:866" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:873" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:884" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="565:893" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="573:597" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="640:734" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="692:719" ph="..." />
-              <marker date="1572658322148" expanded="true" signature="808:838" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -399,25 +393,20 @@
     <entry file="file://$PROJECT_DIR$/Demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="72" lean-forward="true" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+          <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/language.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SplString.md">
+    <entry file="file://$PROJECT_DIR$/language.js" />
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-            <folding />
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <folding>
+              <marker date="1572658072806" expanded="true" signature="329:380" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -425,9 +414,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SplString.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        <state relative-caret-position="1452">
+          <caret line="66" column="8" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SplString.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="146">
+            <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

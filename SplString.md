@@ -59,3 +59,11 @@
 >```javascript
 >document.body.innerHTML = SplString.lang_t2s(document.body.innerHTML);
 >```
+
+>## trim(string)、ltrim(string)、rtrim(string)
+>### detail:
+>删除空格（左右两端，左端，右端）
+>### example:
+>```javascript
+>SplString.trim("  测试 abc  ");
+>```
