@@ -80,18 +80,31 @@
             }
             return rs;
         },
-
-        //删除左右两端的空格
-        trim: function (string) {
-            return string.replace(/(^\s*)|(\s*$)/g, "");
+        //删除左边指定字符
+        ltrim: function (string, character) {
+            character = character || '';
+            if (string.substring(0, 1) == character) {
+                string = string.substring(1, string.length);
+                return this.ltrim(string, character);
+            } else {
+                return string;
+            }
         },
-        //删除左边的空格
-        ltrim: function (string) {
-            return string.replace(/(^\s*)/g, "");
+        //删除右边指定字符
+        rtrim: function (string, character) {
+            character = character || '';
+            if (string.substring(string.length - 1, string.length) == character) {
+                string = string.substring(0, string.length - 1);
+                return this.rtrim(string, character);
+            } else {
+                return string;
+            }
         },
-        //删除右边的空格
-        rtrim: function (string) {
-            return string.replace(/(\s*$)/g, "");
+        //删除两边指定字符
+        trim: function (string, character) {
+            character = character || '';
+            string = this.ltrim(string, character);
+            return this.rtrim(string, character);
         }
 
 
