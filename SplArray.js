@@ -15,6 +15,22 @@
                 return value != value2;
             })
         },
+        //一维数组排序(type:1从小到大，2从大到小，3随机)
+        sort:function(array,type){
+            type = type || 1;
+            return array.sort(function (a,b) {
+                switch (type) {
+                    case 1:
+                        return a - b;
+                    case 2:
+                        return b - a;
+                    case 3:
+                        return Math.random() - 0.5;
+                    default:
+                        return array;
+                }
+            })
+        },
         //二维数组排序，支持多个字段,中文排序
         sort_2: function (array, array_sort) {
             function sort2_sort(a, b, array_sort, n) {
@@ -103,6 +119,38 @@
             return array.filter(function (val) {
                 return !(!val || val === "");
             });
+        },
+        //判断是否在数组中
+        in_array:function (array,value) {
+            return array.indexOf(value) != -1 ? true : false;
+        },
+        //将类数组转为数组
+        formArray:function (array) {
+            var arr= [];
+            if (Array.isArray(array)) {
+                arr = array;
+            } else {
+                arr = Array.prototype.slice.call(array);
+            }
+            return arr;
+        },
+        //获取最大值
+        max:function (array) {
+            return Math.max.apply(null, array);
+        },
+        //获取最小值
+        min:function (array) {
+            return Math.min.apply(null, array);
+        },
+        //求和
+        sum:function (array) {
+            return array.reduce((pre, cur) => {
+                return pre + cur
+            })
+        },
+        //平均值
+        average:function (array) {
+            return this.sum(array) / array.length
         }
 
     };
